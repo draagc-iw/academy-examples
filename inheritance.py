@@ -14,3 +14,4 @@ print(dog.what_am_i()) #"I am a dog"
 print("\n\nTHIS IS ANIMAL")
 print(animal.what_am_i()) #"I am an animal"
 						
+                                                eljrhwf
