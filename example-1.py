@@ -9,7 +9,4 @@ class Animal:
         print("hello")
 
 dog = Animal("dog")
-cat = Animal("cat")
-
 dog.print_name()
-cat.print_name()
