@@ -6,6 +6,10 @@ class Person:
     def get_name(self):
         return self._name
 
+    def set_name(self, newname):
+        self._name = newname
+
+
     def get_surname(self):
         return self.surname
 

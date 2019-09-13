@@ -5,6 +5,9 @@ class Animal:
     def print_name(self):
         print(self.name)
 
+    def print_hello(self):
+        print("hello")
+
 dog = Animal("dog")
 cat = Animal("cat")
 
