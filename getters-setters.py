@@ -13,6 +13,9 @@ class Person:
     def get_surname(self):
         return self.surname
 
+    def set_surname(self, newsurname):
+        self._surname = newsurname
+
 david = Person("david", "Jimenez Sequero")
 david._name = "Bob"
 print(david.get_name())
